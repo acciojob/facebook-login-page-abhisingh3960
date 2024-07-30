@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+body{
+	padding:0px;
+	margin:0px;
+	background-color:lightgray;
+	
+}
+.mainDiv{
+	display:flex;
+	margin-top:20px;
+	justify-content:space-between;
+}
+.fblogo{
+	color:blue;
+	font-weight:900;
+	font-size:35px;
+}
+form{
+	border:1px solid black;
+	padding:20px;
+	margin:30px;
+	pad
+}
