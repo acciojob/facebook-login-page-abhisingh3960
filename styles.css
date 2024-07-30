@@ -34,7 +34,11 @@ form{
 	border-radius:10px;
 	
 }
-#emaila{
+#email{
+	margin:10px;
+	padding:2px;
+}
+#password{
 	margin:10px;
 	padding:2px;
 }
